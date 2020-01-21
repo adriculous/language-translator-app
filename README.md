@@ -6,6 +6,9 @@ The app contains the following:
 - Translations complied in a CSV file
 - GUI module using the Remi Library
 
+### See it in action!
+See this app in action and play around with it by checking out the [repl](https://repl.it/@adriculous/Language-Translator-with-GUI).
+
 ### Future Plans
 I'm currently refreshing and re-learning Japanese again, plus I also have a native language (Tagalog). When time permits, I also plan on adding Japanese and Tagalog translations along with the Spanish and French already defaulted on this project, as part of my Python app development practice.
 
