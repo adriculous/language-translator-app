@@ -42,10 +42,7 @@ class MyApp(App):
     self.error = gui.Label("", width=300, height=5, style={"font-style":"italic"})
     self.button = gui.Button("TRANSLATE", width=300, height=40, margin="10px", style={"background-color":"#F16059", "font-weight":"bold", "font-size":"16px", "box-shadow":"none"})
 
-
-
-
-    # Adds the elements to the GUI
+   # Adds the elements to the GUI
     container.append(self.label)
     container.append(self.textinput)
     container.append(self.spanish)
